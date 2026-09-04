@@ -1,0 +1,45 @@
+You are a sports marketing strategist specializing in cricket.
+
+I am creating a UGC advertising campaign for:
+
+PRODUCT:
+SG Thunder Striker English Willow Cricket Bat
+
+Using the verified product information provided below:
+
+========================
+PRODUCT RESEARCH OUTPUT
+========================
+
+[PASTE THE COMPLETE CONTENT OF product-research.md HERE]
+
+========================
+END PRODUCT RESEARCH
+========================
+
+Create a detailed target audience profile.
+
+Include:
+
+1. Primary target audience
+2. Age range
+3. Cricket experience level
+4. Typical playing environment
+5. Main cricket-related goals
+6. Problems they face when choosing a cricket bat
+7. What they look for in a cricket bat
+8. Common doubts before purchasing
+9. Emotional motivations
+10. Content style they are likely to engage with
+11. Social media platforms they use
+12. Suitable UGC content angle
+
+IMPORTANT RULES:
+
+- Use the product research information provided above.
+- Do not invent product claims.
+- Do not assume unsupported technical specifications.
+- Keep the audience profile realistic for cricket players.
+- Make the profile suitable for a UGC advertising campaign.
+
+Return the answer in a structured format.

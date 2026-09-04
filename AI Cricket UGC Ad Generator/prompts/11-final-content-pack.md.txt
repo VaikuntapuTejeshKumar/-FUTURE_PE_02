@@ -1,0 +1,113 @@
+You are a senior Prompt Engineer and UGC advertising strategist specializing in cricket and sports marketing.
+
+Create a complete professional UGC Advertising Content Pack for:
+
+PRODUCT:
+SG Thunder Striker English Willow Cricket Bat
+
+CAMPAIGN SECTOR:
+Cricket
+
+TARGET AUDIENCE:
+Young and amateur cricket players
+
+Use the following completed project outputs:
+
+========================
+1. PRODUCT RESEARCH
+========================
+
+[PASTE COMPLETE product-research.md HERE]
+
+========================
+2. TARGET AUDIENCE
+========================
+
+[PASTE COMPLETE target-audience.md HERE]
+
+========================
+3. CUSTOMER PROBLEM
+========================
+
+[PASTE COMPLETE customer-problem.md HERE]
+
+========================
+4. UGC SCRIPT
+========================
+
+[PASTE COMPLETE ugc-script.md HERE]
+
+========================
+5. HOOKS
+========================
+
+[PASTE COMPLETE hooks.md HERE]
+
+========================
+6. TONE VARIATIONS
+========================
+
+[PASTE COMPLETE tone-variations.md HERE]
+
+========================
+7. PLATFORM ADAPTATIONS
+========================
+
+[PASTE COMPLETE platform-adaptation.md HERE]
+
+========================
+8. CTAs
+========================
+
+[PASTE COMPLETE ctas.md HERE]
+
+========================
+9. CAPTIONS
+========================
+
+[PASTE COMPLETE captions.md HERE]
+
+========================
+CONTENT PACK REQUIREMENTS
+========================
+
+Create one final, well-organized UGC Advertising Content Pack containing:
+
+1. Campaign Overview
+2. Product Summary
+3. Target Audience
+4. Customer Problem
+5. Emotional Angle
+6. Selected UGC Hook
+7. Final 30-Second UGC Script
+8. Instagram Reel Version
+9. Instagram Ad Version
+10. YouTube Short Version
+11. Tone Variations
+12. CTA Options
+13. Selected CTA
+14. Instagram Caption Options
+15. Selected Caption
+16. Visual/Shot Suggestions
+17. On-Screen Text Suggestions
+18. Fact-Check and Claim Safety
+19. Final Campaign Summary
+
+IMPORTANT RULES:
+
+- Use only verified product information provided above.
+- Do not invent product specifications.
+- Do not invent prices, discounts, reviews, awards or endorsements.
+- Do not create fake testimonials.
+- Do not imply personal product experience unless explicitly provided.
+- Do not guarantee improved cricket performance.
+- Clearly identify any information that is not verified.
+- Keep the content authentic, relatable and suitable for UGC advertising.
+- Maintain consistency between all sections.
+- Do not introduce unsupported claims while combining the outputs.
+
+FORMAT:
+
+Use clear headings, subheadings, bullet points and tables where appropriate.
+
+The final result should be suitable for documentation in a Prompt Engineering project and for presentation in a GitHub repository.

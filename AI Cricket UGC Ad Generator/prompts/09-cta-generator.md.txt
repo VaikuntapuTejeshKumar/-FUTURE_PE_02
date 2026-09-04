@@ -1,0 +1,34 @@
+Generate 10 natural CTAs for:
+
+PRODUCT:
+SG Thunder Striker English Willow Cricket Bat
+
+AUDIENCE:
+Young and amateur cricket players
+
+ADVERTISEMENT:
+[PASTE THE COMPLETE CONTENT OF ugc-script.md HERE]
+
+Create:
+
+1. Soft CTA
+2. Direct CTA
+3. Curiosity CTA
+4. Product-exploration CTA
+5. Instagram CTA
+6. Cricket-community CTA
+7. Website CTA
+8. Consideration CTA
+9. Short CTA
+10. Conversational CTA
+
+IMPORTANT RULES:
+- Keep every CTA natural and conversational.
+- Do not use fake discounts.
+- Do not create false urgency.
+- Do not make performance guarantees.
+- Do not use fake testimonials.
+- Keep the CTA relevant to the product and target audience.
+- Use only verified product information.
+
+Return the 10 CTAs in a numbered list.

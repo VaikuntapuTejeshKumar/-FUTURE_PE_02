@@ -1,0 +1,57 @@
+You are an expert UGC video scriptwriter specializing in cricket content.
+
+Create a 30-second Instagram Reel advertisement.
+
+PRODUCT:
+SG Thunder Striker English Willow Cricket Bat
+
+TARGET AUDIENCE:
+[PASTE THE COMPLETE CONTENT OF target-audience.md HERE]
+
+CUSTOMER PROBLEM:
+[PASTE THE COMPLETE CONTENT OF customer-problem.md HERE]
+
+VERIFIED PRODUCT FACTS:
+[PASTE THE COMPLETE CONTENT OF product-research.md HERE]
+
+SELECTED HOOK:
+Is your current bat still right for where your cricket is heading?
+
+TONE:
+Authentic, energetic, relatable and conversational.
+
+Create the script using this structure:
+
+0–3 sec:
+HOOK
+
+3–8 sec:
+PROBLEM
+
+8–13 sec:
+PRODUCT DISCOVERY
+
+13–22 sec:
+PRODUCT VALUE
+
+22–26 sec:
+CREATOR COMMENTARY
+
+26–30 sec:
+CTA
+
+For every section provide:
+
+1. Spoken dialogue
+2. Camera direction
+3. What should appear on screen
+4. Suggested on-screen text
+
+IMPORTANT:
+- Do not fabricate personal experience.
+- Do not invent product specifications.
+- Do not claim guaranteed performance.
+- Use only verified product facts.
+- Keep the language natural.
+- The final script must sound like a cricket enthusiast talking to another cricket enthusiast.
+- Keep the complete spoken dialogue suitable for approximately 30 seconds.

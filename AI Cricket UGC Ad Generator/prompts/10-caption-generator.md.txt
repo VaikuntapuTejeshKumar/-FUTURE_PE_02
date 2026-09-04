@@ -1,0 +1,26 @@
+Write 5 Instagram captions for:
+
+PRODUCT:
+SG Thunder Striker English Willow Cricket Bat
+
+SCRIPT:
+[PASTE THE COMPLETE CONTENT OF ugc-script.md HERE]
+
+Create:
+
+1. Short Casual Caption
+2. Cricket Enthusiast Caption
+3. Storytelling Caption
+4. Promotional Caption
+5. Minimal Caption
+
+Requirements:
+- Keep the captions natural and suitable for cricket players.
+- Make them suitable for Instagram.
+- Do not make unsupported product claims.
+- Do not include fake reviews or testimonials.
+- Do not guarantee better performance.
+- Keep the promotional tone balanced.
+- Include 3–5 relevant hashtags for each caption.
+
+Return all 5 captions with their corresponding hashtags.

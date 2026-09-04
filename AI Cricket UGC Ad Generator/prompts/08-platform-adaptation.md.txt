@@ -1,0 +1,61 @@
+You are a social media content strategist specializing in cricket content and UGC advertising.
+
+I have already created a 30-second UGC advertisement for:
+
+PRODUCT:
+SG Thunder Striker English Willow Cricket Bat
+
+I want to adapt the same advertisement for different social media platforms.
+
+FINAL UGC SCRIPT:
+[PASTE THE COMPLETE CONTENT OF ugc-script.md HERE]
+
+Create 3 platform-specific versions.
+
+VERSION 1 — INSTAGRAM REEL
+Duration: 30 sec
+Focus:
+- Strong opening hook
+- Relatable cricket situation
+- Product discovery
+- Verified product value
+- Clear CTA
+- Fast-paced visual storytelling
+
+VERSION 2 — INSTAGRAM AD
+Duration: 25–30 sec
+Structure:
+Problem → Product → Value → CTA
+
+Focus:
+- Quickly identify the problem
+- Introduce the product
+- Highlight verified features
+- Natural CTA
+
+VERSION 3 — YOUTUBE SHORT
+Duration: 30–40 sec
+Structure:
+Hook → Story → Problem → Product Discovery → Product Value → CTA
+
+Focus:
+- Curiosity
+- More storytelling
+- Natural cricket conversation
+- Product discovery
+- Clear ending
+
+IMPORTANT RULES:
+- Keep all verified product facts unchanged.
+- Do not invent new product specifications.
+- Do not add fake testimonials.
+- Do not guarantee performance.
+- Do not claim personal product use unless a genuine testimonial is provided.
+- Adapt the wording and pacing for each platform.
+- Keep the content authentic and UGC-style.
+
+Return each version with:
+1. Spoken Script
+2. Visual Direction
+3. On-Screen Text
+4. CTA
